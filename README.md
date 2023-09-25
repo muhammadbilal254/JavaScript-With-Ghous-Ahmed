@@ -17,6 +17,9 @@ Web and Mobile application development is one of the most high demand Skills in 
 - [JS || Class 5](https://www.youtube.com/watch?v=vSeuxFZSDXo)
 - [JS || Class 6](https://www.youtube.com/watch?v=M0PBFfHUl78)
 - [JS || Class 7](https://www.youtube.com/watch?v=aKoD_6HZsY8)
+
 ## Assignment
 
 - [Js Assignment](https://drive.google.com/file/d/1PzeijfUuCnmYaNUnJWgaGtw9ZVdf1XNF/view)
+
+## Projects
